@@ -1,0 +1,242 @@
+@font-face {
+  font-family: 'SolaimanLipi';
+  src: url('fonts/SolaimanLipiNormal.eot');
+  src: url('fonts/SolaimanLipiNormal.eot?#iefix') format('embedded-opentype'),
+    url('fonts/SolaimanLipiNormal.woff2') format('woff2'),
+    url('fonts/SolaimanLipiNormal.woff') format('woff'),
+    url('fonts/SolaimanLipiNormal.ttf') format('truetype'),
+    url('fonts/SolaimanLipiNormal.svg#SolaimanLipiNormal') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+    font-family: 'SolaimanLipi';
+    font-size: 16px;
+    background: #efefef;
+}
+header{
+	background: #fff;
+}
+#menu{
+	background: #C00D0D;
+	margin-top: 10px;
+}
+.navbar ul li  a{
+	color: #000; 
+ } 
+ .navbar ul li  a:hover{
+	color: #fff;
+	background: #8a1111;  
+ } 
+.navbar-nav>li>a {
+padding-top: 10px;
+padding-bottom:10px;
+}
+.navbar {
+position: relative;
+min-height: 0;
+margin-bottom: 0;
+border: 1px solid transparent;
+}
+.para a{
+    color: #1b1b1c;
+    text-decoration: none;
+}
+#TopNews{
+  background: #EEE;
+}
+.News img{
+  height: 300px;
+}
+.News{
+  width: 100%;
+  margin: 20px 0;
+}
+.News{
+   background: #fff;
+    text-align:center;
+} 
+.News a{
+  color: #000;
+  text-decoration: none;
+}
+.News p{
+  margin: 5px;
+   height: 65px;
+}
+.picuter{
+     margin-top: 20px;
+    background: #fff;
+    text-align:center;
+}
+.picuter img{
+  width: 100%;
+}
+.picuter a{
+   color: #000;
+  text-decoration: none;
+}
+.down{
+    background: #fff;
+    text-align:center;
+}
+.down a{
+   color: #000;
+  text-decoration: none;
+}
+ul.topline{
+  background: #fff;
+}
+.list ul li a{
+  color: #000;
+  font-family: 'SolaimanLipi';
+  outline: none !important;
+    text-decoration: none;
+}
+.home-tab ul li.active a {
+    background: #B30F0F;
+    color: #fff;
+    display: block;
+    padding: 8px;
+    font-size: 19px;
+}
+.active a{
+  font-family: 'SolaimanLipi';
+  outline: none !important;
+    text-decoration: none;
+}
+.home-tab ul li.active.der a {
+    background: #B30F0F none repeat scroll 0 0;
+    display: block;
+    padding: 8px;
+    color: #fff;
+    font-size: 19px;
+}
+.right-side{
+ margin-top: 20px;
+ margin-left: -20px;
+}
+.content li {
+    border-bottom: 1px solid #a68e8e;
+    /* height: 58px; */
+    margin-bottom:5px;
+    overflow: hidden;
+    position: relative;
+}
+ #pepole{
+  height: 0px;
+  overflow: hidden;
+}
+ .der a{
+   font-family: 'SolaimanLipi';
+   outline: none !important;
+    text-decoration: none;
+  }
+  .nav-pills > li > a {
+    border-radius: 1px;
+}
+  .content ul li a{
+    color: #000;
+    font-family: 'SolaimanLipi';
+    outline: none !important;
+    text-decoration: none;
+  }
+  .list-styled{
+    background: #ede5d1;
+    padding: 10px;
+  }
+ .content ul li{
+  list-style-type: lower-alpha;
+}
+.card{
+    background: #fff;
+    text-align:center;
+}
+.card a{
+   color: #000;
+  text-decoration: none;
+}
+.sidbnar{
+  margin-top: 30px;
+}
+#midel{
+     background: #fff;
+}
+.tomargin{
+  margin-top: 50px;
+}
+.card-img{
+  width: 100%;
+}
+#line:after{
+    background: #ddd none repeat scroll 0 0;
+    content: "";
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 12px;
+    width: 100%;
+}
+#ctgall{
+  margin-top: 20px;
+  background: #fff;
+}
+.coxtitle  a{
+  color: #000;
+     font-family: 'SolaimanLipi';
+   outline: none;
+    text-decoration: none;
+}
+.coxtitle span:before {
+    background: #b30f0f none repeat scroll 0 0;
+    content: "";
+    height: 83%;
+    left: 0;
+    position: absolute;
+    top: 4px;
+    width: 4px;
+}
+.row .no-gutters  img{
+      width: 90px;
+}
+
+#allclass{
+  margin-top:20px;
+}
+.card img{
+  width: 100%;
+}
+.siedcards{
+   margin-top: 20px;
+}
+
+#foternews{
+  background: #fff;
+}
+.footerlogo{
+  height: 50px;
+  background: rgba(119, 115, 115, 0.73);
+}
+.footerlogo img{
+      height:50px;
+      width: 50%;
+}
+.footer-menu li a {
+    text-decoration: none;
+    padding: 1px 10px;
+    display: block;
+    border: 1px solid #3c3c3c;
+    font-size: 14px;
+    color: #fff;
+    margin: 5px;
+}
+.footercoloer{
+    background: #000;
+}
+#footer{
+  background:#000;
+}
+
+.footer ul li{
+  color: #fff;
+}
